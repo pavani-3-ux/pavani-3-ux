@@ -47,7 +47,7 @@
   <tr>
     <td align="center" style="border-radius:15px; padding:20px">
 
-# 🌟 P. PAVANI
+# 🌟 P.PAVANI
 
 ### 🎓 AI Graduate | 📊 Aspiring Data Analyst | 🚀 Tech Enthusiast
 

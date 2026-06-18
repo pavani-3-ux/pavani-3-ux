@@ -84,7 +84,7 @@ Passionate AI graduate with strong interest in Data Analytics, Artificial Intell
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,r,html,css,tailwind,mysql,pandas,github,git,canva,figma,powerbi" width="90%" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,r,html,css,tailwind,mysql,github,git,figma,powerbi" width="90%" />
 
 <br><br>
 
